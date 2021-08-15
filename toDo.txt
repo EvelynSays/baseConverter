@@ -1,0 +1,14 @@
+=> Ask the user for the number they want to convert from base 10.
+=> Ask the user for the base they want to convert to.
+=> Get the number line for the requested base.
+=> Calculate the highest exponent that can fit fully into the base 10 number - loop that counts up until the number doesn't fit any more? - add all the numbers to a list/dictionary?
+=> Declare the length of the string in the requested base?
+=> For each exponent (working backwards) check if the base 10 number fits & how many times. Subtract the resulting number from base 10, and check that against the next number.
+	If the number fits, check the number line for the requested base for the correct number/letter to add to the requested base string.
+	If the number doesn't fit, immediately move to checking the next number and add a 0 to the requested base string (the output).
+=>
+=>
+=>
+=>
+
+
